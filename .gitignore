@@ -1,0 +1,18 @@
+# Binary Files
+my_sudo
+*.out
+*.o
+*.a
+
+# IDE Files
+.vscode/
+
+# Temporary Files
+*.swp
+*~
+
+# Debug & Coverage Files
+*.gcda
+*.gcno
+*.gcov
+*.log
